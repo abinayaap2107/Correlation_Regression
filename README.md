@@ -1,4 +1,11 @@
 # Correlation and regression for data analysis
+~~~
+Ex.no:1
+Date:
+Name:Abinaya.A.P
+Register No:212225220002
+
+~~~
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
