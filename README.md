@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
 ~~~
-Ex.no:1
+Ex.no:3
 Date:
 Name:Abinaya.A.P
 Register No:212225220002
